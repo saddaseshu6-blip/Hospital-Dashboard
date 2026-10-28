@@ -1,0 +1,3 @@
+-- Total no.of patients ?
+-- Total no.of patients are discharge?
+-- by using the visualization charts ?
